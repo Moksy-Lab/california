@@ -277,12 +277,12 @@
     border-radius: 10px;
     margin-top: 50px;
     margin-bottom: 50px;
-    box-shadow: 0px 4px 8px 0px #283593
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px
 }
 
 .testimoniala3ffb0e1288cf3e1 .card-0 {
     color: #fff;
-    background-color: #536DFE;
+    background-color: var(--brand-color);
     position: relative;
     margin-left: 70px;
     border-radius: 10px;
@@ -294,6 +294,9 @@
     border-radius: 50%;
     width: 10px;
     height: 10px
+}
+.testimoniala3ffb0e1288cf3e1 .testiHeader{
+    font-size: 25px;
 }
 
 .testimoniala3ffb0e1288cf3e1 .profile {
