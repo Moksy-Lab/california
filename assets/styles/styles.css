@@ -19,8 +19,6 @@
     --balin-background-image :  url(https://builder.moksy.com/wp-content/uploads/2022/08/main-banner-5.jpg);
     --fortune-background-image :  url(https://builder.moksy.com/wp-content/uploads/2022/08/london.png);
     --barack-background-image : url(https://builder.moksy.com/wp-content/uploads/2022/08/london.png);
-    --cullen-background-image : url()
-
 }
 
 
@@ -656,7 +654,7 @@
     }
 
     .footerb9fc05b1281e93c03 .small-post-item .post-date {
-        color: #ffb606;
+        color: var(--brand-color);
         margin-bottom: 3px;
         
         font-weight: 400
@@ -684,7 +682,7 @@
     .footerb9fc05b1281e93c03 .news-letter-form input[type="submit"] {
         width: auto;
         border: none;
-        background-color: #ffb606;
+        background-color: var(--brand-color);
         padding: 9px 30px;
         border-radius: 5px;
         -webkit-border-radius: 5px;
@@ -705,7 +703,7 @@
     }
 
     .footerb9fc05b1281e93c03 .copy-right-text a {
-        color: #ffb606
+        color: var(--brand-color)
     }
 
     .footerb9fc05b1281e93c03 .terms-privacy li+li {
