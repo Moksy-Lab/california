@@ -143,11 +143,11 @@
         .serviced04850298895e70a .services-block-box .fa {
             display: block;
             float: left;
-            color: rgb(11, 7, 250)
+            color: var(--brand-color)
         }
     
         .serviced04850298895e70a .services-block-box .fa-tablet,
-        .serviced04850298895e70a .services-block-box .fa-lemon-o {
+        .serviced04850298895e70a .services-block-box .fa-lemon {
             margin-right: 30px
         }
     
@@ -163,7 +163,7 @@
             margin-right: 20px
         }
     
-        .serviced04850298895e70a .services-block-box .fa-clock-o{
+        .serviced04850298895e70a .services-block-box .fa-clock{
             margin-right: 25px
         } 
     
