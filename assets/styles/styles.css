@@ -931,7 +931,7 @@ p {
 .btn-outline-primary,
 .btn-outline-primary:visited {
 
-    background-color: var(--darker-2-color);
+    background-color: var(--brand-color);
     border-color: var(--darker-2-color);
     background: none;
     color: var(--darker-3-color);
@@ -940,7 +940,7 @@ p {
 .btn-outline-primary:hover,
 .btn-outline-primary:focus,
 .btn-outline-primary:active {
-    background-color: var(--main-brand-color);
+    background-color: var(--brand-color);
     border-color: var(--main-brand-color);
     color: #fff;
 }
