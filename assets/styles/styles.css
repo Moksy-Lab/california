@@ -684,15 +684,14 @@ margin-right: 60px
 
 /* #fun(f013287cc03d37647) #css ends */
 
-
-
-
-
-
-
-
-
 /* #qui(c98b9fb5a898c4551) #css starts  */
+
+.btnTrial{
+    border: 1px solid #FFD54F;
+    background-color: #FFD54F;
+}
+
+
 .quetec98b9fb5a898c4551 .DescriptionHeading {
 font-size: 50px
 }
@@ -705,17 +704,10 @@ width: 500px
 /* #qui(c98b9fb5a898c4551) #css ends  */
 
 
-
-
-
-
 /* #fun(9fc05b1281e93c03) #css starts */
 .footerb9fc05b1281e93c03 {
     min-height: 40vh;
-
-
 }
-
 
 .footerb9fc05b1281e93c03 a,
 .footerb9fc05b1281e93c03 a:hover,
