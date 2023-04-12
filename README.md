@@ -35,6 +35,20 @@ Contact us
 - [Uifaces](http://uifaces.com/)
 
 
+## Image Preview
+
+
+[Desktop]<a href="https://example.com"><img src="https://i.ibb.co/LvrqfnP/California.png" alt="Illinois"></a>
+
+
+[Mobile]
+
+
+<a href="https://example.com"><img src="https://i.ibb.co/CPxJKbq/California-M.png" alt="Illinois"></a>
+
+
+
+
 ## Live site Preview 
 
 [California](https://moksy.com/templates/california/?project_id=16713)
