@@ -268,7 +268,7 @@ width: 500px
         margin: 0;
         padding-top: 50px;
         font-weight: 700;
-        font-size: 32px;
+        font-size: 44px;
         text-align: center
     }
 
@@ -415,11 +415,18 @@ width: 500px
 }
 .workw8b69b68110aa8e40 .badge{
    background-color: #F6FFF2;
-   color: #76A675;
+   color:var(--brand-color);
    font-size: 15px
 }
 .workw8b69b68110aa8e40 .lead{
     font-size: 30px
+}
+.workw8b69b68110aa8e40 .btn-outline{
+    font-size: 16px;
+    font-weight: 900;
+   }
+.workw8b69b68110aa8e40 .btn-outline:hover{
+ background-color: var(--light-brand-color);
 }
     /* #wow(w8b69b68110aa8e40) #css ends  */
 
