@@ -12,6 +12,7 @@
     color: #234262
 }
 .headerfek1subypzu .btn-outline-primary{
+    border-radius: 5px;
     background-color: #234262;
     font-weight: 400;
     padding: 13px 60px
@@ -32,14 +33,15 @@
     color: #234262
 }
 .abouta8efe356cab990f31 .stroke{
-    background-color: #CBA360;
-    color: #234262;
+    background-color: #234262;
+    color: #fff;
     padding-left: 20px;
     padding-right: 20px;
     border-radius: 50px;
     font-style: italic
 }
 .abouta8efe356cab990f31 .btndecor{
+    border-radius: 5px;
     background-color: #234262;
     padding: 13px 60px;
     border: 1px solid #234262;
