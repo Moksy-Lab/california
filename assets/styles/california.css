@@ -173,7 +173,7 @@
         color: #fff
     }
     .christinaco40p743dw4 .btn-outline-primary:hover,
-    .christinaco40p743dw4 .btn-outline-primary:not(:disabled):not(.disabled):active{
+    .christinaco40p743dw4 .btn-primary:not(:disabled):not(.disabled):active{
             background-color: #234262;
             border: 1px solid #234262
         }
